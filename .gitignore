@@ -1,0 +1,4 @@
+REST_API/node_modules
+REST_API/package-lock.json
+REST_API/package.json
+REST_API/.env
